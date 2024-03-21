@@ -1,0 +1,20 @@
+{
+  "name": "sequienim",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper for the MailerLite API.",
+  "main": "index.js",
+  "dependencies": {
+    "https": "1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaynaOberbrunner/sequienim.git"
+  },
+  "keywords": [
+    "mailerlite",
+    "email",
+    "unde"
+  ],
+  "author": "LaurianeKris",
+  "license": "ISC"
+}
